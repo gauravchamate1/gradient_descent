@@ -1,2 +1,2 @@
 # gradient_descent
-Gradient descend for housing data
+Gradient descend for simple linear regression housing data
